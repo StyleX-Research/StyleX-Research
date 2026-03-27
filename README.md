@@ -6,7 +6,7 @@ We focus on building foundational theories, scalable data paradigms, and control
 ## 🎓 Guidance & Team
 Our research is conducted under the invaluable guidance and supervision of our esteemed mentors:
 * [**Rui Ma**](https://ruim-jlu.github.io/#about) *(Jilin University)*
-* [**Yilin Wang**](https://yilinwang.org/) *(Adobe Research)*
+* [**Yilin Wang**](https://yilinwang.org/) *(Adobe)*
 * [**Yijun Li**](https://yijunmaverick.github.io/) *(Adobe)*
 
 The core research is led by **Ye Wang** (Final Year PhD Student, Jilin University).
