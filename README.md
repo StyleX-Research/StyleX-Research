@@ -15,4 +15,4 @@ The core research is led by [**Ye Wang**](https://wangyephd.github.io/) (Final Y
 We are actively contributing to top-tier conferences. Our main works include:
 * **OmniStyle** (CVPR 2025)
 * **SigStyle** (AAAI 2025)
-* **OmniStyle2**
+* ......
