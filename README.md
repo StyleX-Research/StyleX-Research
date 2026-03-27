@@ -1,16 +1,17 @@
-## Hi there 👋
+# StyleX-Research
 
-<!--
-**StyleX-Research/StyleX-Research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**StyleX-Research** is a research group dedicated to advancing the frontiers of **Style-Related Computer Vision**. We focus on developing novel methodologies for style transfer and image stylization.
 
-Here are some ideas to get you started:
+## 🎓 Guidance & Team
+Our research is conducted under the invaluable guidance and supervision of our esteemed mentors:
+*   **Yilin Wang**
+*   **Rui Ma**
+*   **Yijun Li**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The core research is led by **Ye Wang** (Final Year PhD Student, Jilin University).
+
+## 🔥 Key Projects
+We are actively contributing to top-tier conferences. Our main works include:
+*   **OmniStyle** (CVPR 2025)
+*   **SigStyle** (AAAI 2025)
+*   **OmniStyle2**
