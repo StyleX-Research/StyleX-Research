@@ -9,7 +9,7 @@ Our research is conducted under the invaluable guidance and supervision of our e
 * [**Yilin Wang**](https://yilinwang.org/) *(Adobe)*
 * [**Yijun Li**](https://yijunmaverick.github.io/) *(Adobe)*
 
-The core research is led by [**Ye Wang**](https://wangyephd.github.io/) (Final Year PhD Student, Jilin University).
+The core contributor is [**Ye Wang**](https://wangyephd.github.io/) (Final Year PhD Student, Jilin University).
 
 ## 🔥 Key Projects
 We are actively contributing to top-tier conferences. Our main works include:
